@@ -12,5 +12,5 @@ Try Takeshi's Tatakae on [Facebook](https://www.facebook.com/fbcameraeffects/try
 
 ### Steps to use:
 - Open the *Assets* folder in the repository.
-- Navigate to the image titled ******.
-- Open either of the two links given above and point the camera at the opened picture to see the virtual scroll.
+- Navigate to the images titled *tatake.png* and *final meca maze.png*.
+- Open either of the two links given above and point the camera at the opened pictures to see the virtual scroll.
