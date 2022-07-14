@@ -11,6 +11,6 @@ Try Takeshi's Tatakae on [Facebook](https://www.facebook.com/fbcameraeffects/try
 **P.S.: Open the links on a mobile device to try the effects.**
 
 ### Steps to use:
-- Open the *Assets* folder in the repository.
+- Open the *tatake trial* folder in the repository and head to the *textures* folder.
 - Navigate to the images titled *tatake.png* and *final meca maze.png*.
 - Open either of the two links given above and point the camera at the opened pictures to see the virtual scroll.
